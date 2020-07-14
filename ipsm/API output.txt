@@ -1,0 +1,106 @@
+{
+  "counts": [
+    {
+      "emotion": "people",
+      "value": 6
+    },
+    {
+      "emotion": "angry",
+      "value": 0
+    },
+    {
+      "emotion": "disgust",
+      "value": 0
+    },
+    {
+      "emotion": "fear",
+      "value": 0
+    },
+    {
+      "emotion": "happy",
+      "value": 0
+    },
+    {
+      "emotion": "sad",
+      "value": 1
+    },
+    {
+      "emotion": "surprise",
+      "value": 2
+    },
+    {
+      "emotion": "neutral",
+      "value": 1
+    },
+    {
+      "emotion": "faces",
+      "value": 4
+    }
+  ],
+  "emotions": {
+    "1": "surprise",
+    "2": "surprise",
+    "3": "sad",
+    "4": "neutral"
+  },
+  "faces": {
+    "1": [
+      333,
+      160,
+      63,
+      48
+    ],
+    "2": [
+      97,
+      170,
+      52,
+      39
+    ],
+    "3": [
+      569,
+      51,
+      54,
+      39
+    ],
+    "4": [
+      404,
+      82,
+      51,
+      33
+    ]
+  },
+  "pres": [
+    {
+      "emotion": "happy",
+      "value": 2
+    },
+    {
+      "emotion": "sad",
+      "value": 41
+    },
+    {
+      "emotion": "neutral",
+      "value": 15
+    },
+    {
+      "emotion": "angry",
+      "value": 38
+    },
+    {
+      "emotion": "surprise",
+      "value": 2
+    },
+    {
+      "emotion": "fear",
+      "value": 2
+    },
+    {
+      "emotion": "disgust",
+      "value": 0
+    },
+    {
+      "emotion": "people",
+      "value": 20
+    }
+  ]
+}
